@@ -25,6 +25,8 @@ html{
   width: ;
   background: rgb(168, 37, 129);
   display: block;
+  font-size: 30px;
+  
 }
 .everything{
     background: white;
@@ -33,10 +35,13 @@ html{
 }
 #GET-AUDIOBOOKS{
     background-color: #ff0063;
-    max-height: 30px;
+    max-height: 50px;
     color: white;
     border-radius: 25px;
     border: none;
-    padding: 8px 12px 20px 12px;
-    margin-top: 15px;
+    padding: 20px 20px 20px 20px;
+    margin-top: 20px;
+}
+.h1{
+    font-size: large;
 }

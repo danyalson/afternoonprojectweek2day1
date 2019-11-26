@@ -1,0 +1,42 @@
+html{
+    background: pink;
+}
+.minibox{
+    width: 100%;
+    height: 100px;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+ 
+#subscribe{
+    background-color: #ff0063;
+    max-height: 30px;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    padding: 8px 12px 20px 12px;
+    margin-top: 15px;
+}
+
+.inside-box{
+  height: 500px;
+  width: ;
+  background: rgb(168, 37, 129);
+  display: block;
+}
+.everything{
+    background: white;
+    box-sizing: border-box;
+    padding: 20px;
+}
+#GET-AUDIOBOOKS{
+    background-color: #ff0063;
+    max-height: 30px;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    padding: 8px 12px 20px 12px;
+    margin-top: 15px;
+}
